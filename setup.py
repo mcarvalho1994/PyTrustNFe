@@ -51,7 +51,7 @@ later (LGPLv2+)",
     long_description_content_type="text/markdown",
     install_requires=[
         'urllib3',
-        'xmlsec==1.3.3',  # apt update;apt install libxmlsec1-dev pkg-config -y
+        'xmlsec==1.3.8',  # apt update;apt install libxmlsec1-dev pkg-config -y
         'Jinja2 >= 2.8',
         'pyOpenSSL >= 16.0.0, < 18',
         'signxml >= 2.4.0',
